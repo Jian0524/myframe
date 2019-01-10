@@ -1,0 +1,14 @@
+{
+    "require": {
+        "lox/pheasant": "dev-master",
+        "slim/slim": "^3.0",
+        "latte/latte": "^2.4"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "app\\":"app/"
+        }
+    },
+    "minimum-stability": "dev"
+}
